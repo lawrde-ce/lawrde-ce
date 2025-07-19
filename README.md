@@ -3,7 +3,7 @@
 My Name is Lawrde Darryle Amancio, a 4th Year Student in Bachelor of Science in Computer Engineering.
 
 - ⚡ Fun fact: I am a beginner. 
-- 🌱 I’m currently learning on learning React
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on making beginner projects
     - Contact me lawrde.ce@outlook.com or darryleamancio195@gmail.com
 
